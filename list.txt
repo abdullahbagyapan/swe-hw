@@ -1,0 +1,5 @@
+community support
+user friendly UI/UX
+verbose documentation
+open source
+
