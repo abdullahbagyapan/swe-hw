@@ -1,5 +1,5 @@
-community support
-user friendly UI/UX
 verbose documentation
+user friendly UI/UX
+community support
 open source
 encourage for usage
