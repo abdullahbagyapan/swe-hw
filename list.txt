@@ -2,4 +2,4 @@ community support
 user friendly UI/UX
 verbose documentation
 open source
-
+encourage for usage
